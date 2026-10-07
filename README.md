@@ -1,6 +1,6 @@
 # Sales Data Analysis with Python
 
-**Dataset Source:** Kaggle
+**Dataset Source:** [Kaggle – Superstore Sales Dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
 
 ## 📌 Project Overview
 
@@ -97,6 +97,8 @@ Important variables include:
 | `Category`      | Product category                |
 | `Product Name`  | Product name                    |
 | `Sales`         | Sales amount                    |
+
+Note: The `Sub-Category` column was unintentionally overlooked during the data analysis process and was not included in the current analysis.
 
 ---
 
