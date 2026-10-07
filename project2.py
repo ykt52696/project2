@@ -35,8 +35,7 @@ text_cols = [
     "Product ID",
     "Category",
     "Product Name"
-    "Sub-Category"
-]
+]     # The "Sub-Category" column was unintentionally overlooked during the data analysis process and was not included in the current analysis.
 
  # 移除文字前後空白
 df[text_cols] = df[text_cols].apply(
