@@ -35,6 +35,7 @@ text_cols = [
     "Product ID",
     "Category",
     "Product Name"
+    "Sub-Category"
 ]
 
  # 移除文字前後空白
