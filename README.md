@@ -1,5 +1,7 @@
 # Sales Data Analysis with Python
 
+**Dataset Source:** Kaggle
+
 ## 📌 Project Overview
 
 This project analyzes sales transaction data using Python, with a focus on data cleaning, exploratory data analysis (EDA), data aggregation, and visualization.
