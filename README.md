@@ -245,10 +245,10 @@ Although Technology ranks first in every region, the sales gap between Technolog
 
 Potential business applications include:
 
-Maintaining sufficient inventory and availability for Technology products across regions
-Identifying regions where the sales gap between Technology and other categories is smaller
-Developing region-specific strategies for lower-performing categories
-Allocating sales and marketing resources based on regional category performance
+- Maintaining sufficient inventory and availability for Technology products across regions
+- Identifying regions where the sales gap between Technology and other categories is smaller
+- Developing region-specific strategies for lower-performing categories
+- Allocating sales and marketing resources based on regional category performance
 
 
 ---
@@ -355,13 +355,13 @@ Further analysis could examine customer purchase frequency and long-term value t
 
 # 📌 Key Findings
 
-| Analysis      | Key Finding                                              |
-| ------------- | -------------------------------------------------------- |
-| Category      | Technology has the highest total sales                   |
-| Monthly Trend | Sales fluctuate across different months                  |
-| Region        | Category performance differs across regions              |
-| State         | Sales are concentrated in several high-performing states |
-| Customer      | A small group of customers contributes significant sales |
+| Analysis      | Key Finding                                                                              |
+| ------------- | -----------------------------------------------------------------------------------------|
+| Category      | Technology has the highest total sales                                                   |
+| Monthly Trend | Sales fluctuate across different months                                                  |
+| Region        | Technology has the highest sales in all four regions, but the sales gap varies by region |
+| State         | Sales are concentrated in several high-performing states                                 |
+| Customer      | A small group of customers contributes significant sales                                 |
 
 ---
 
@@ -431,19 +431,16 @@ This project demonstrates practical experience with:
 
 ### Pandas
 
-* `read_csv()`
-* `drop_duplicates()`
-* `to_datetime()`
-* `groupby()`
-* `agg()`
-* `pivot_table()`
-* `sort_values()`
-* `reset_index()`
-* `idxmax()`
-* `value_counts()`
-* Data filtering
-* String cleaning
-* Datetime processing
+- `read_csv()`
+- `drop_duplicates()`
+- `to_datetime()`
+- `groupby()`
+- `pivot_table()`
+- `sort_values()`
+- `reset_index()`
+- Data filtering
+- String cleaning
+- Datetime processing
 
 ### NumPy
 
